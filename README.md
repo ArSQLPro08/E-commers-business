@@ -37,3 +37,8 @@ This dashboard is ideal for executives, sales managers, and marketing teams aimi
 ![Bmw project](https://github.com/user-attachments/assets/be872160-9f57-44e3-aef8-98f648959b6f)
 
 
+That the smart watch dashboard:
+
+![Whatch dashboard](https://github.com/user-attachments/assets/ea112d25-546c-417b-9f52-b1aaf1ad4cb9)
+
+
